@@ -1,0 +1,76 @@
+.app-container {
+  padding: 20px;
+  background-color: rgb(53, 55, 75);
+  min-height: 100vh;
+}
+
+.app-header {
+  color: rgb(120, 160, 131) !important;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.vertical-tabs-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(52, 73, 85) !important;
+}
+
+.tab-label {
+  color: rgb(120, 160, 131) !important;
+}
+
+.task-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.task-form-input {
+  margin: 2rem;
+  width: 25ch;
+  color: rgb(120, 160, 131) !important;
+}
+
+.task-form-label {
+  color: rgb(120, 160, 131) !important;
+  margin-top: 1rem;
+}
+
+.task-form-button {
+  margin-top: 2rem;
+  color: rgb(120, 160, 131) !important;
+  background-color: rgb(80, 114, 123) !important;
+}
+
+.task-list-container {
+  color: rgb(120, 160, 131) !important;
+}
+.spinner-color {
+  color: rgb(80, 114, 123) !important;
+}
+.loading-spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.loading-spinner {
+  color: rgb(80, 114, 123) !important;
+}
+
+.vertical-tabs-container .MuiTabs-indicator {
+  background-color:rgb(80, 114, 123) !important;
+}
+
+.task-form-input.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color:rgb(80, 114, 123) !important;
+}
+.checkbox-checked-color {
+  color: rgb(80, 114, 123) !important;
+}
+
+
+
